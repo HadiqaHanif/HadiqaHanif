@@ -1,7 +1,6 @@
-<img width="1774" height="887" alt="ChatGPT Image Aug 16, 2026, 05_08_58 PM" src="https://github.com/user-attachments/assets/8546b293-ff2f-47d5-8a45-3111b1f290c2" />
-<!-- Banner -->
-<p align="center">
-<img width="1536" height="1024" alt="tools_platforms_with_more_doodles" src="https://github.com/user-attachments/assets/18e0aad7-f7e3-47e4-9452-fc874060c839" />
+<img width="1774" height="887" alt="ChatGPT Image Aug 16, 2026, 05_08_58 PM" src="https://github.com/user-attachments/assets/8546b293-ff2f-47d5-8a45-3111b1f290c2" /><img width="1536" height="1024" alt="ChatGPT Image Aug 16, 2026, 06_27_40 PM" src="https://github.com/user-attachments/assets/c7f3005b-57b9-4de4-addc-7d0885f19431" />
+
+
 
 <!-- Typing animation -->
 <p align="center">
