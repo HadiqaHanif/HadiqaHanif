@@ -1,3 +1,5 @@
+<img width="1774" height="887" alt="ChatGPT Image Aug 16, 2026, 05_08_58 PM" src="https://github.com/user-attachments/assets/8546b293-ff2f-47d5-8a45-3111b1f290c2" />
+
 # HadiqaHanif
 Hey 👋 it's me Hadiqa Hanif. I am a beginner 🔰 to Python 🐍 and obsessed with Coding.     
 while True:
