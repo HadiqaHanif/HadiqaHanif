@@ -9,6 +9,8 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Learning+Python%2C+Building+Projects;Turning+Ideas+into+Code" alt="Typing SVG">
   </a>
 </p> 
+<img width="1536" height="1024" alt="ChatGPT Image Aug 16, 2026, 05_57_13 PM" src="https://github.com/user-attachments/assets/0c71967f-7164-4e63-a827-77ac81892fba" />
+
 while True:
   print("Coding Lover 😉 for ∞ ").                                                                                          
 Struggling Everyday = Learning Everyday  💪 
