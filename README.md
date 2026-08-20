@@ -20,7 +20,5 @@
     <img src="https://raw.githubusercontent.com/HadiqaHanif/HadiqaHanif/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
   </picture>
   <br/>
-  <sub><i>Auto-updated every 12 hours via GitHub Actions.</i></sub>
-</div>
-</details>
+
 Thank you for visiting my GitHub Profile <3 
