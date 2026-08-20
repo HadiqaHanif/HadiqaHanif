@@ -11,7 +11,7 @@
 
 <img src="https://streak-stats.demolab.com?user=HadiqaHanif&theme=transparent&hide_border=true" />  
 <details open>
-  <summary><h2>🟡 Pacman Contribution Graph</h2></summary>
+  <summary><h2>🟡Contribution Graph</h2></summary>
   <br>
 <div align="center">
   <picture>
