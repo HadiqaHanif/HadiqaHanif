@@ -9,5 +9,18 @@
   </a>
 </p> 
 
-<img src="https://streak-stats.demolab.com?user=HadiqaHanif&theme=transparent&hide_border=true" />      
+<img src="https://streak-stats.demolab.com?user=HadiqaHanif&theme=transparent&hide_border=true" />  
+<details open>
+  <summary><h2>🟡 Pacman Contribution Graph</h2></summary>
+  <br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HadiqaHanif/HadiqaHanif/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HadiqaHanif/HadiqaHanif/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/HadiqaHanif/HadiqaHanif/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
+  </picture>
+  <br/>
+  <sub><i>Auto-updated every 12 hours via GitHub Actions.</i></sub>
+</div>
+</details>
 Thank you for visiting my GitHub Profile <3 
